@@ -1,7 +1,8 @@
 <template>
   <div id="app">
     <HelloWorld msg="Hello Vue World"/>
-    <img src="./assets/logo.png">
+    <SignUp msg="SignUp Twogether"/>
+    <Login msg="Login Twogether"/>
     <router-view/>
   </div>
 </template>
